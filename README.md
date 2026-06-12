@@ -21,7 +21,7 @@ Python 3
 ##  How to Run
 
 Clone the repository:
-
+https://github.com/ANISH-BOT2602/Decode-Lab-Project.git
 Navigate to the project folder:
 cd todo-list
 Run the program:
@@ -47,10 +47,10 @@ Your Tasks:
 ##  Concepts Used
 
 Lists
-append() Method
-Loops (while, for)
-Conditional Statements (if-elif-else)
-User Input Handling
+append() Method,
+Loops (while, for),
+Conditional Statements (if-elif-else),
+User Input Handling.
 
 ##  Learning Outcome
 
